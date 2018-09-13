@@ -1,1 +1,1 @@
-# Arima-Model-in-5-Minutes
+# ARIMA-Model-in-5-Minutes
